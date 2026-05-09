@@ -1,0 +1,5 @@
+# Local Netlify folder
+.netlify
+
+# Local DNS migration tooling (not part of the website)
+dns/
